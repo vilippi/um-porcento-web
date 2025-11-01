@@ -15,6 +15,7 @@ const HeroSection = () => {
 
     return (
         <section
+            id="hero" data-nav-contrast="dark"
             style={vars}
             className="
                 relative min-h-screen overflow-hidden

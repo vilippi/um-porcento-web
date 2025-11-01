@@ -72,7 +72,7 @@ const BenefitsSection = () => {
 
     return (
         <section
-            id="servicos"
+            id="servicos" data-nav-contrast="light"
             className="
                 py-20 md:py-32
                 bg-[hsl(220_25%_97%)]

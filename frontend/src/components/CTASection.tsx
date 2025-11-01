@@ -15,7 +15,7 @@ const CTASection = () => {
 
     return (
         <section
-            id="contato"
+            id="contato" data-nav-contrast="dark"
             style={vars}
             className="
                 relative overflow-hidden

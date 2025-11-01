@@ -17,7 +17,7 @@ const TeamSection = () => {
     ];
 
     return (
-        <section className="py-20 md:py-32" id="quem-somos">
+        <section className="py-20 md:py-32" id="quem-somos" data-nav-contrast="light">
             <div className="container max-w-6xl mx-auto px-6">
                 {/* Main Content Grid */}
                 <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center justify-center mb-20">

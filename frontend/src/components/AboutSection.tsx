@@ -10,7 +10,7 @@ const AboutSection = () => {
 
     return (
         <section
-            id="sobre"
+            id="sobre" data-nav-contrast="light"
             className={[
                 "py-20 md:py-32",
                 "min-h-[60vh]",                         // altura mínima para centralizar melhor
