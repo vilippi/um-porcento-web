@@ -1,6 +1,6 @@
 import teamHero from "@/assets/team-hero.jpg";
-import teamMember1 from "@/assets/team-member-1.jpg";
-import teamMember2 from "@/assets/team-member-2.jpg";
+import teamMember1 from "@/assets/team-member-1.png";
+import teamMember2 from "@/assets/team-member-2.png";
 import teamMember3 from "@/assets/team-member-3.jpg";
 import { Button } from "./ui/button";
 import { Avatar, AvatarFallback, AvatarImage } from "./ui/avatar";
