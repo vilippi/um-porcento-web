@@ -4,6 +4,7 @@ import CTASection from "./components/CTASection";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import HeroSection from "./components/HeroSection";
+import TeamSection from "./components/TeamSection";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <HeroSection />
       <AboutSection />
       <BenefitsSection />
+      <TeamSection />
       <CTASection />
       <Footer />
     </main>
